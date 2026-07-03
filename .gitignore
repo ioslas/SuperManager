@@ -1,8 +1,8 @@
 # Compiled class files
-bin/  # Eclipse output folder
 *.class
 
-
+# Eclipse output folder
+bin/ 
 
 # Log files
 *.log
