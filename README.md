@@ -52,4 +52,4 @@ The application supports supermarket operations through **<ins>a role-based acce
       ```
    5. **Run `LoginScreen.java`** which is the **main class**
 
-- If you want to see the outcome only then download ***<ins>the executable jar file</ins>***
+- If you want to see the *outcome only* then download ***<ins>the executable jar file</ins>***
