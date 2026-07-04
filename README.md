@@ -11,10 +11,10 @@ The application supports supermarket operations through **<ins>a role-based acce
 
 ## Features
 - **User authentication** (Manager / Cashier)
-- *Product & Cashier management* (Create, Update, Delete)
+- **Product & Cashier management** (Create, Update, Delete)
 - Inventory monitoring
-- Sales statistics
-- Membership cards
-- Discount management
-- Receipt generation
-- Database integration with MySQL
+- **Sales statistics**
+- Customer **Membership cards**
+- *Discount management*
+- <ins>Receipt generation</ins>
+- Database integration with **MySQL**
