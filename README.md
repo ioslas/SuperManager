@@ -22,8 +22,7 @@ The application supports supermarket operations through **<ins>a role-based acce
 
 
 ## Technologies
-- Java
-- Java Swing
-- MySQL
-- JDBC
-- Eclipse IDE
+- *Java 11* --> **core programming language**
+- *Java Swing* --> **GUI Framework** for developing the desktop user interface
+-  *MySQL* --> **Relational database management system (RDBMS)**
+- *JDBC* --> **Java API** for <ins>Database Connectivity</ins> 
