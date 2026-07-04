@@ -35,7 +35,7 @@ The application supports supermarket operations through **<ins>a role-based acce
       git clone https://github.com/ioslas/SuperManager.git
       cd SuperManger
       ```
-   2. Download **Eclipse IDE (Recommended)** & <ins>import project into its workspace</ins>
+   2. Download **Eclipse IDE (Recommended)** & <ins>import project into its Package Explorer</ins>
       ```
       File -> Import... -> Existing Projects into Workspace 
       ```
