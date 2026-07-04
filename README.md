@@ -56,6 +56,6 @@ The application supports supermarket operations through **<ins>a role-based acce
 
 ***<ins>Note</ins>***: In order to enable JDBC api you need to download the XAMPP app: https://www.apachefriends.org/download.html
 Run xampp-control file
-<img width="833" height="547" alt="image" src="https://github.com/user-attachments/assets/41fb5c55-b4ba-4783-9dc0-48f445383fe8" />
+<img width="233" height="147" alt="image" src="https://github.com/user-attachments/assets/41fb5c55-b4ba-4783-9dc0-48f445383fe8" />
 <img width="835" height="533" alt="image" src="https://github.com/user-attachments/assets/3ac9fffc-a5fc-4730-b114-e48aab14798c" />
 
