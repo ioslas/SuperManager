@@ -31,7 +31,7 @@ The application supports supermarket operations through **<ins>a role-based acce
 ## Installation & Setup
 1. **Clone the repository** (or \<code\> -> Download ZIP and unzip the folder)  
    ```bash 
-   git clone https://github.com/ioslas/Super-Manager.git
+   git clone https://github.com/ioslas/SuperManager.git
    cd SuperManger
    ```
 2. 
