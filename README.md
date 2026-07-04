@@ -26,3 +26,12 @@ The application supports supermarket operations through **<ins>a role-based acce
 - *Java Swing* --> **GUI Framework** for developing the desktop user interface
 -  *MySQL* --> **Relational database management system (RDBMS)**
 - *JDBC* --> **Java API** for <ins>Database Connectivity</ins> 
+
+
+## Installation & Setup
+1. **Clone the repository** (or \<code\> -> Download ZIP and unzip the folder)  
+   ```bash 
+   git clone https://github.com/ioslas/Django-BlogApp.git
+   cd Django-BlogApp
+   ```
+2. 
