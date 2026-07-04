@@ -7,7 +7,7 @@
 
 SuperManager is a **<ins>Java Swing</ins> desktop application** developed as *a university group project* for the <ins>Software Engineering course</ins>.
 
-The application supports supermarket operations through **<ins>a role-based access system</ins>**, where each user is <ins>granted permissions and functionalities</ins> according to <b><i>their responsibilities</b> within the organization.</i>
+The application supports supermarket operations through **<ins>a role-based access system</ins>**, where each user is <ins>granted permissions and functionalities</ins> according to ***their responsibilities** within the organization.*
 
 ## Features
 - **User authentication** (Manager / Cashier)
