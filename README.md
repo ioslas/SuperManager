@@ -1,5 +1,7 @@
 ## SuperManager (Super-Market) Software
 ![Java](https://img.shields.io/badge/Language-JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JDBC](https://img.shields.io/badge/API-JDBC-4B4B4B?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Version-1.0-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
