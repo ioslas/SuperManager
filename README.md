@@ -43,8 +43,11 @@ The application supports supermarket operations through **<ins>a role-based acce
       *Note*: If you want to just see the code structure, you can open the file with **notepad**
       **Side-note**: The project was created by this **enviroment**, so it has the suitable files for compile and execute.
    3. **Import the MySQL database** (`database/sm.sql`)
+      ```
+      File -> Import... -> Existing Projects into Workspace 
+      ```
    4. Add the **required libraries** from the `lib/` folder
       ```
       Right Click to the project -> Build Path --> Add External Archives... 
       ```
-   5. 
+   5. **Run `LoginScreen.java`** which is the **main class**
