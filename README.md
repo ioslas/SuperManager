@@ -29,9 +29,15 @@ The application supports supermarket operations through **<ins>a role-based acce
 
 
 ## Installation & Setup
-1. **Clone the repository** (or \<code\> -> Download ZIP and unzip the folder)  
-   ```bash 
-   git clone https://github.com/ioslas/SuperManager.git
-   cd SuperManger
-   ```
-2. 
+- If you want to examine the code
+   1. **Clone the repository** (or \<code\> -> Download ZIP and unzip the folder)  
+      ```bash 
+      git clone https://github.com/ioslas/SuperManager.git
+      cd SuperManger
+      ```
+   2. Download **Eclipse IDE (Recommended)** & <ins>import project into its workspace</ins>
+
+      *Note*: If you want to just see the code structure, you can open the file with **notepad**
+      **Side-note**: The project was created by this **enviroment**, so it has the suitable files for compile and execute
+   3. **Import the MySQL database** (`database/sm.sql`)
+   4. Add the **required libraries** from the `lib/` folder
