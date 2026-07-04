@@ -1,5 +1,5 @@
 ## SuperManager (Super-Market) Software
-![Java](https://img.shields.io/badge/Language-Python-C0D727)
+![Java](https://img.shields.io/badge/Language-JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Version](https://img.shields.io/badge/Version-1.0-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
