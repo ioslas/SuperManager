@@ -90,7 +90,7 @@ The application supports supermarket operations through **<ins>a role-based acce
 </h3>
 
 <h3 align="center">Error Messages</h3>
-<table align="center">
+<table align="center" cellpadding="15>
    <tr>
    <td align="center">
       <b>Invalid username or password</b><br><br>
