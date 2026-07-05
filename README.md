@@ -37,7 +37,7 @@ The application supports supermarket operations through **<ins>a role-based acce
       cd SuperManager
       ```
    2. Download **Eclipse IDE (Recommended)** & <ins>import project into its Package Explorer</ins>
-      ```
+      ```text
       File -> Import... -> Existing Projects into Workspace 
       ```
       
@@ -49,7 +49,7 @@ The application supports supermarket operations through **<ins>a role-based acce
 
       **Νote**: Further instructions about this enviroment are provided below.
    4. Add the **required libraries** from the `lib/` folder
-      ```
+      ```text
       Right Click to the project -> Build Path --> Add External Archives... 
       ```
    5. **Run `LoginScreen.java`** which which serves as **the application's entry point**.
