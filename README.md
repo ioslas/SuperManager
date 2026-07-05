@@ -104,4 +104,4 @@ The application supports supermarket operations through **<ins>a role-based acce
    </tr>
 </table>
 
-**Key point**: when you change the 
+**Key point**: Any modifications performed through the interface are automatically synchronized with the database.
