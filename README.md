@@ -113,4 +113,4 @@ Additional documentation can be found in the `docs/` directory.
 - **Software Requirements Specification (SRS)**: Defines the <ins>requirements and expected functionality of the system</ins>.
 - **Software Design Document (SDD)**: Describes the <ins>system's architecture and implementation design</ins>.
 
-<ins>Note<ins>: The diagrams inside the docs are in the /diagram file for exploration if you want
+<ins>Note</ins>: The diagrams included in the documentation are also available separately in the `/diagrams` directory for further exploration.
