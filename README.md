@@ -78,7 +78,7 @@ The application supports supermarket operations through **<ins>a role-based acce
 
 ## Screenshots / Demo
 
-<center> The main screen (LoginScreen.java)</center>center>
+<center> The main screen (LoginScreen.java)</center>
 <img width="828" height="477" alt="image" src="https://github.com/user-attachments/assets/4a94f919-f4b0-48f6-8841-f6ff646bef4b" />
 <br><br>
 
