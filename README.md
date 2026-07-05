@@ -29,11 +29,11 @@ The application supports supermarket operations through **<ins>a role-based acce
 
 
 ## Installation & Setup
-- If you want to examine the code
+- Running the project from source
    1. **Clone the repository** (or \<code\> -> Download ZIP and unzip the folder)  
       ```bash 
       git clone https://github.com/ioslas/SuperManager.git
-      cd SuperManger
+      cd SuperManager
       ```
    2. Download **Eclipse IDE (Recommended)** & <ins>import project into its Package Explorer</ins>
       ```
@@ -41,7 +41,7 @@ The application supports supermarket operations through **<ins>a role-based acce
       ```
       
       *Note*: If you want to just see the code structure, you can open the file with **notepad**
-      **Side-note**: The project was created by this **enviroment**, so it has the suitable files for compile and execute.
+      **Side-note**: The project was originally developed using **this environment**. Opening it in Eclipse ensures that <ins>the project configuration is imported correctly</ins>.
    3. **Import the MySQL database** (`database/sm.sql`)
       ```
       File -> Import... -> Existing Projects into Workspace 
@@ -50,9 +50,9 @@ The application supports supermarket operations through **<ins>a role-based acce
       ```
       Right Click to the project -> Build Path --> Add External Archives... 
       ```
-   5. **Run `LoginScreen.java`** which is the **main class**
+   5. **Run `LoginScreen.java`** which which serves as **the application's entry point**.
 
-- If you want to see the *outcome only* then download ***<ins>the executable jar file</ins>***
+- f you only want to use the *application without building it from source*, then download ***<ins>the executable jar file</ins>***
 
 ***<ins>Note</ins>***: In order to enable JDBC api you need to download the XAMPP app: https://www.apachefriends.org/download.html <br>
 
