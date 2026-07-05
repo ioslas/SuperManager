@@ -46,7 +46,8 @@ The application supports supermarket operations through **<ins>a role-based acce
    3. **Import the MySQL database** (`database/sm.sql`) in the **<ins>MySQL server</ins>**
 
       <img width="1282" height="610" alt="image" src="https://github.com/user-attachments/assets/31463249-e3fa-43bf-af97-29bc601afa6b" />
-   
+
+      More info about this will be referred down below
    4. Add the **required libraries** from the `lib/` folder
       ```
       Right Click to the project -> Build Path --> Add External Archives... 
