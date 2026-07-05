@@ -41,7 +41,7 @@ The application supports supermarket operations through **<ins>a role-based acce
       File -> Import... -> Existing Projects into Workspace 
       ```
       
-      *Note*: If you want to just see the code structure, you can open the file with **notepad**
+      *Note*: If you want to just see the code structure, you can open the file with **notepad**<br>
       **Side-note**: The project was originally developed using **this environment**. Opening it in Eclipse ensures that <ins>the project configuration is imported correctly</ins>.
    3. **Import the `database/sm.sql` script** in the **<ins>MySQL server</ins>**
 
