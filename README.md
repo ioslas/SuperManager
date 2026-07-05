@@ -104,4 +104,13 @@ The application supports supermarket operations through **<ins>a role-based acce
    </tr>
 </table>
 
-**Key point**: Any modifications performed through the interface are automatically synchronized with the database.
+**Key point**: Any modifications performed through the interface are **automatically synchronized** with the database.
+
+
+## Documentation
+Additional documentation can be found in the `docs/` directory.
+
+- **Software Requirements Specification (SRS)**: Defines the <ins>requirements and expected functionality of the system</ins>.
+- **Software Design Document (SDD)**: Describes the <ins>system's architecture and implementation design</ins>.
+
+<ins>Note<ins>: The diagrams inside the docs are in the /diagram file for exploration if you want
