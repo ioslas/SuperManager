@@ -74,3 +74,9 @@ The application supports supermarket operations through **<ins>a role-based acce
 
 - Close connection<br>
 <img width="525" height="365" alt="image" src="https://github.com/user-attachments/assets/ce3fb398-40a3-432a-9dae-3bf534794111" />
+
+
+## Screenshots / Demo
+```markdown
+> The main screen (LoginScreen.java)
+```
