@@ -90,12 +90,13 @@ The application supports supermarket operations through **<ins>a role-based acce
 </h3>
 
 <h3 align="center">Error Messages</h3>
-<table style="align:'center' cellpading:'100px'">
+<table align="center">
    <tr>
    <td align="center">
       <b>Invalid username or password</b><br><br>
       <img width="323" height="181" alt="image" src="https://github.com/user-attachments/assets/c0e04a15-0fb1-4067-a161-dbdcfc3b84c7" />
    </td>
+   &nbsp;&nbsp;&nbsp;&nbsp;
    <td>
       <b>MySQL server is not running (XAMPP)</b><br><br>
       <img width="323" height="181" alt="image" src="https://github.com/user-attachments/assets/3d47e8ca-8c7d-4c74-84ca-931e9e384aaa" />
