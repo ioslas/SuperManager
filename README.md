@@ -66,7 +66,7 @@ The application supports supermarket operations through **<ins>a role-based acce
 
 <img width="425" height="365" alt="617108030-41fb5c55-b4ba-4783-9dc0-48f445383fe8" src="https://github.com/user-attachments/assets/21916b03-aaf6-4004-b9e6-cddb81c89d23" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="485" height="365" alt="image" src="https://github.com/user-attachments/assets/3ac9fffc-a5fc-4730-b114-e48aab14798c" />
+<img width="445" height="365" alt="image" src="https://github.com/user-attachments/assets/3ac9fffc-a5fc-4730-b114-e48aab14798c" />
 
 <h4 align="center">MySQL Server</h4>
 <img width="1120" height="422" alt="image" src="https://github.com/user-attachments/assets/0e489e2c-96d2-47a1-9155-7dbe7d2d268b" />
