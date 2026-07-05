@@ -92,4 +92,4 @@ The application supports supermarket operations through **<ins>a role-based acce
 ```markdown
 > Login as Casher
 ```
-<img width="1597" height="891" alt="image" src="https://github.com/user-attachments/assets/1ece4508-79da-4d7d-a0ae-96dd3a33f62e" />
+<img width="1597" height="891" alt="image" src="https://github.com/user-attachments/assets/dc03d8a8-e6d7-4beb-bc88-f31fe9609ebd" />
