@@ -43,11 +43,11 @@ The application supports supermarket operations through **<ins>a role-based acce
       
       *Note*: If you want to just see the code structure, you can open the file with **notepad**
       **Side-note**: The project was originally developed using **this environment**. Opening it in Eclipse ensures that <ins>the project configuration is imported correctly</ins>.
-   3. **Import the MySQL database** (`database/sm.sql`) in the **<ins>MySQL server</ins>**
+   3. **Import the `database/sm.sql` script** in the **<ins>MySQL server</ins>**
 
       <img width="1282" height="610" alt="image" src="https://github.com/user-attachments/assets/31463249-e3fa-43bf-af97-29bc601afa6b" />
 
-      More info about this will be referred down <ins>below</ins>
+      **Νote**: Further instructions about this enviroment are provided below.
    4. Add the **required libraries** from the `lib/` folder
       ```
       Right Click to the project -> Build Path --> Add External Archives... 
