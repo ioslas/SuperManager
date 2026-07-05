@@ -52,9 +52,10 @@ The application supports supermarket operations through **<ins>a role-based acce
       ```
    5. **Run `LoginScreen.java`** which which serves as **the application's entry point**.
 
-- f you only want to use the *application without building it from source*, then download ***<ins>the executable jar file</ins>***
+- Running the executable
+  - if you only want to use the *application without building it from source*, then download ***<ins>the executable jar file</ins>***
 
-***<ins>Note</ins>***: In order to enable JDBC api you need to download the XAMPP app: https://www.apachefriends.org/download.html <br>
+***<ins>Note</ins>***: The application requires a running MySQL server. In this guide, XAMPP is used as the local development environment: https://www.apachefriends.org/download.html <br>
 
 <h3 align="center">Run xampp-control app file</h3>
 - Open connection<br>
