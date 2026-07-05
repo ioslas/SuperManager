@@ -90,8 +90,8 @@ The application supports supermarket operations through **<ins>a role-based acce
 </h3>
 
 <h3 align="center">Error Messages</h3>
-<table align="center">
-   <tr cellpading="100px">
+<table align="center" border="none">
+   <tr>
    <td align="center">
       <b>Invalid username or password</b><br><br>
       <img width="323" height="181" alt="image" src="https://github.com/user-attachments/assets/c0e04a15-0fb1-4067-a161-dbdcfc3b84c7" />
