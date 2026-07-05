@@ -22,10 +22,11 @@ The application supports supermarket operations through **<ins>a role-based acce
 
 
 ## Technologies
-- *Java 11* --> **core programming language**
+- *Java 11 (JDK)* --> **core programming language**
 - *Java Swing* --> **GUI Framework** for developing the desktop user interface
 -  *MySQL* --> **Relational database management system (RDBMS)**
 - *JDBC* --> **Java API** for <ins>Database Connectivity</ins> 
+- *Eclipse IDE (Recommended)* --> **Java Environment** for Project 
 
 
 ## Installation & Setup
@@ -42,10 +43,8 @@ The application supports supermarket operations through **<ins>a role-based acce
       
       *Note*: If you want to just see the code structure, you can open the file with **notepad**
       **Side-note**: The project was originally developed using **this environment**. Opening it in Eclipse ensures that <ins>the project configuration is imported correctly</ins>.
-   3. **Import the MySQL database** (`database/sm.sql`)
-      ```
-      File -> Import... -> Existing Projects into Workspace 
-      ```
+   3. **Import the MySQL database** (`database/sm.sql`) in the **<ins>MySQL server</ins>**
+   
    4. Add the **required libraries** from the `lib/` folder
       ```
       Right Click to the project -> Build Path --> Add External Archives... 
