@@ -80,7 +80,7 @@ The application supports supermarket operations through **<ins>a role-based acce
 ```markdown
 > The main screen (LoginScreen.java)
 ```
-<img width="1028" height="577" alt="image" src="https://github.com/user-attachments/assets/4a94f919-f4b0-48f6-8841-f6ff646bef4b" />
+<img width="428" height="277" alt="image" src="https://github.com/user-attachments/assets/4a94f919-f4b0-48f6-8841-f6ff646bef4b" />
 
 ```markdown
 > Login as Manager
