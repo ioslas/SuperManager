@@ -89,11 +89,11 @@ The application supports supermarket operations through **<ins>a role-based acce
    <img width="1597" height="891" alt="image" src="https://github.com/user-attachments/assets/dc03d8a8-e6d7-4beb-bc88-f31fe9609ebd" />
 </h3>
 
-<div align="center"><h3>Error Messages</h3> 
+<div align="center"><p><h3>Error Messages</h3>
    <h4>(for example wrong username/password)</h4>
    <img width="323" height="181" alt="image" src="https://github.com/user-attachments/assets/c0e04a15-0fb1-4067-a161-dbdcfc3b84c7" />
    <h4>(or MySQL server (XAMPP) not active)</h4>
    <img width="323" height="181" alt="image" src="https://github.com/user-attachments/assets/3d47e8ca-8c7d-4c74-84ca-931e9e384aaa" />
-</div>
+</p></div>
 
 **Key point**: when you change the 
