@@ -1,3 +1,4 @@
+<img width="833" height="535" alt="617108030-41fb5c55-b4ba-4783-9dc0-48f445383fe8" src="https://github.com/user-attachments/assets/1dce511b-914f-46c7-b74b-0dfb4e5cda45" />
 ## SuperManager (Super-Market) Software
 ![Java](https://img.shields.io/badge/Language-JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Swing](https://img.shields.io/badge/GUI-Java%20Swing-C0C0C0?style=for-the-badge)
@@ -58,7 +59,7 @@ The application supports supermarket operations through **<ins>a role-based acce
 
 <h3 align="center">Run xampp-control app file</h3>
 - Open connection<br>
-<img width="425" height="365" alt="image" src="https://github.com/user-attachments/assets/41fb5c55-b4ba-4783-9dc0-48f445383fe8" />
+<img width="425" height="365" alt="617108030-41fb5c55-b4ba-4783-9dc0-48f445383fe8" src="https://github.com/user-attachments/assets/21916b03-aaf6-4004-b9e6-cddb81c89d23" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="425" height="365" alt="image" src="https://github.com/user-attachments/assets/3ac9fffc-a5fc-4730-b114-e48aab14798c" />
 
