@@ -66,4 +66,4 @@ The application supports supermarket operations through **<ins>a role-based acce
 <img width="1420" height="622" alt="image" src="https://github.com/user-attachments/assets/0e489e2c-96d2-47a1-9155-7dbe7d2d268b" />
 
 - Close connection<br>
-<img width="325" height="265" alt="image" src="https://github.com/user-attachments/assets/ce3fb398-40a3-432a-9dae-3bf534794111" />
+<img width="525" height="365" alt="image" src="https://github.com/user-attachments/assets/ce3fb398-40a3-432a-9dae-3bf534794111" />
