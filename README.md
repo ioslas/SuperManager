@@ -83,7 +83,7 @@ The application supports supermarket operations through **<ins>a role-based acce
 
 <h3 align="center">Login as Manager
 <img width="1597" height="899" alt="image" src="https://github.com/user-attachments/assets/fd04038b-00d8-4bf1-bfe7-ddb3bbdcfa7c" />
-</h3><br><br>
+</h3><br>
 
 <h3 align="center">Login as Cashier
 <img width="1597" height="891" alt="image" src="https://github.com/user-attachments/assets/dc03d8a8-e6d7-4beb-bc88-f31fe9609ebd" />
