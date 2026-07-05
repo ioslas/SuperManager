@@ -59,9 +59,9 @@ The application supports supermarket operations through **<ins>a role-based acce
 <h3 align="center">Run xampp-control file</h3>
 - Open connection<br>
 
-<img width="325" height="265" alt="image" src="https://github.com/user-attachments/assets/41fb5c55-b4ba-4783-9dc0-48f445383fe8" />
+<img width="425" height="365" alt="image" src="https://github.com/user-attachments/assets/41fb5c55-b4ba-4783-9dc0-48f445383fe8" />
 
-<img width="325" height="265" alt="image" src="https://github.com/user-attachments/assets/3ac9fffc-a5fc-4730-b114-e48aab14798c" />
+<img width="425" height="365" alt="image" src="https://github.com/user-attachments/assets/3ac9fffc-a5fc-4730-b114-e48aab14798c" />
 
 - Close connection
 <img width="325" height="265" alt="image" src="https://github.com/user-attachments/assets/ce3fb398-40a3-432a-9dae-3bf534794111" />
