@@ -58,8 +58,8 @@ The application supports supermarket operations through **<ins>a role-based acce
 ***<ins>Note</ins>***: The application requires a running MySQL server. In this guide, XAMPP is used as the local development environment: https://www.apachefriends.org/download.html <br>
 
 <h3 align="center">Run xampp-control app file</h3>
+- Open connection
 
-- Open connection<br>
 <img width="425" height="365" alt="617108030-41fb5c55-b4ba-4783-9dc0-48f445383fe8" src="https://github.com/user-attachments/assets/21916b03-aaf6-4004-b9e6-cddb81c89d23" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="425" height="365" alt="image" src="https://github.com/user-attachments/assets/3ac9fffc-a5fc-4730-b114-e48aab14798c" />
