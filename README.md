@@ -89,7 +89,6 @@ The application supports supermarket operations through **<ins>a role-based acce
    <img width="1597" height="891" alt="image" src="https://github.com/user-attachments/assets/dc03d8a8-e6d7-4beb-bc88-f31fe9609ebd" />
 </h3>
 
-<h3 align="center">Error Messages 
-   <h4>(for example wrong username/password)</h4>
+<h3 align="center">Error Messages<h4>(for example wrong username/password)</h4>
    <img width="323" height="181" alt="image" src="https://github.com/user-attachments/assets/c0e04a15-0fb1-4067-a161-dbdcfc3b84c7" />
 </h3>
