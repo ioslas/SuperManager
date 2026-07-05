@@ -29,8 +29,8 @@ The application supports supermarket operations through **<ins>a role-based acce
 
 
 ## Installation & Setup
-
 - Running the project from source
+  
    1. **Clone the repository** (or \<code\> -> Download ZIP and unzip the folder)  
       ```bash 
       git clone https://github.com/ioslas/SuperManager.git
