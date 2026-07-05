@@ -90,7 +90,7 @@ The application supports supermarket operations through **<ins>a role-based acce
 </h3>
 
 <div align="center"><h3>Error Messages</h3>
-   <div1 style="display":'inline-block' "float":'left';>
+   <div1 style="display:'inline-block' float:'left'";>
       <h4>(for example wrong username/password)</h4>
       <img width="323" height="181" alt="image" src="https://github.com/user-attachments/assets/c0e04a15-0fb1-4067-a161-dbdcfc3b84c7" />
    </div1>
