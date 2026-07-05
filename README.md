@@ -45,7 +45,7 @@ The application supports supermarket operations through **<ins>a role-based acce
       **Side-note**: The project was originally developed using **this environment**. Opening it in Eclipse ensures that <ins>the project configuration is imported correctly</ins>.
    3. **Import the MySQL database** (`database/sm.sql`) in the **<ins>MySQL server</ins>**
 
-      <img width="1482" height="610" alt="image" src="https://github.com/user-attachments/assets/31463249-e3fa-43bf-af97-29bc601afa6b" />
+      <img width="1282" height="610" alt="image" src="https://github.com/user-attachments/assets/31463249-e3fa-43bf-af97-29bc601afa6b" />
    
    4. Add the **required libraries** from the `lib/` folder
       ```
