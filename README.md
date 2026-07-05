@@ -1,4 +1,3 @@
-<img width="833" height="535" alt="617108030-41fb5c55-b4ba-4783-9dc0-48f445383fe8" src="https://github.com/user-attachments/assets/1dce511b-914f-46c7-b74b-0dfb4e5cda45" />
 ## SuperManager (Super-Market) Software
 ![Java](https://img.shields.io/badge/Language-JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Swing](https://img.shields.io/badge/GUI-Java%20Swing-C0C0C0?style=for-the-badge)
