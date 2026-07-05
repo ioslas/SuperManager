@@ -55,7 +55,7 @@ The application supports supermarket operations through **<ins>a role-based acce
    5. **Run `LoginScreen.java`** which which serves as **the application's entry point**.
 
 - Running the executable
-  - if you only want to use the *application without building it from source*, then download ***<ins>the executable jar file</ins>***
+  If you only want to use the *application without building it from source*, then download ***<ins>the executable jar file</ins>***
 
 ***<ins>Note</ins>***: The application requires a running MySQL server. In this guide, XAMPP is used as the local development environment: https://www.apachefriends.org/download.html <br>
 
