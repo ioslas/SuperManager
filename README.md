@@ -21,7 +21,7 @@ The application supports supermarket operations through **<ins>a role-based acce
 - Database integration with **MySQL**
 
 
-## Technologies
+## 🛠️ Technologies
 - *Java 11 (JDK)* --> **core programming language**
 - *Java Swing* --> **GUI Framework** for developing the desktop user interface
 -  *MySQL* --> **Relational database management system (RDBMS)**
@@ -29,7 +29,7 @@ The application supports supermarket operations through **<ins>a role-based acce
 - *Eclipse IDE (Recommended)* --> **Java Integrated Development Environment** for project 
 
 
-## Installation & Setup
+## 🚀 Installation & Setup
 - Running the project from source
    1. **Clone the repository** (or \<code\> -> Download ZIP and unzip the folder)  
       ```bash 
@@ -126,7 +126,7 @@ The application supports supermarket operations through **<ins>a role-based acce
 <img width="602" height="547" alt="image" src="https://github.com/user-attachments/assets/724a6d47-100b-46cf-a7e5-918d26581d45" />
 
 
-## Documentation
+## 📚 Documentation
 Additional documentation can be found in the `docs/` directory.
 
 - **Software Requirements Specification (SRS)**: Defines the <ins>requirements and expected functionality of the system</ins>.
