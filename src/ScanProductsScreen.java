@@ -187,19 +187,19 @@ public class ScanProductsScreen extends JInternalFrame {
 
 				//---- button1 ----
 				button1.setText("Add Product");
-				button1.setIcon(new ImageIcon(getClass().getResource("/plusSign3.png")));
+				button1.setIcon(new ImageIcon(getClass().getResource("/icons/plusSign3.png")));
 				contentPane.add(button1);
 				button1.setBounds(20, 290, 150, 40);
 
 				//---- button2 ----
 				button2.setText("Remove Product");
-				button2.setIcon(new ImageIcon(getClass().getResource("/minusSign.png")));
+				button2.setIcon(new ImageIcon(getClass().getResource("/icons/minusSign.png")));
 				contentPane.add(button2);
 				button2.setBounds(185, 290, 150, 40);
 
 				//---- button3 ----
 				button3.setText("Proceed to Payment");
-				button3.setIcon(new ImageIcon(getClass().getResource("/payment1.png")));
+				button3.setIcon(new ImageIcon(getClass().getResource("/icons/payment1.png")));
 				contentPane.add(button3);
 				button3.setBounds(80, 375, 195, 40);
 			}

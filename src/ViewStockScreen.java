@@ -85,7 +85,7 @@ public class ViewStockScreen extends JInternalFrame  {
 
 				//---- button1 ----
 				button1.setText("Order Products");
-				button1.setIcon(new ImageIcon(getClass().getResource("/order.png")));
+				button1.setIcon(new ImageIcon(getClass().getResource("/icons/order.png")));
 				contentPane.add(button1);
 				button1.setBounds(new Rectangle(new Point(170, 505), button1.getPreferredSize()));
 				button1.addActionListener(new java.awt.event.ActionListener() {

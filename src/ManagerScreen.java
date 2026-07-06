@@ -222,7 +222,7 @@ public class ManagerScreen extends JFrame {
 			//---- button1 ----
 			button1.setText("RUD Cashiers List");
 			button1.setSelectedIcon(null);
-			button1.setIcon(new ImageIcon(getClass().getResource("/addCashier.png")));
+			button1.setIcon(new ImageIcon(getClass().getResource("/icons/addCashier.png")));
 			panel1.add(button1);
 			button1.setBounds(200, 15, 160, 40);
 			button1.addActionListener(new java.awt.event.ActionListener() {
@@ -233,7 +233,7 @@ public class ManagerScreen extends JFrame {
 
 			//---- button2 ----
 			button2.setText("RUD Products List");
-			button2.setIcon(new ImageIcon(getClass().getResource("/package.png")));
+			button2.setIcon(new ImageIcon(getClass().getResource("/icons/package.png")));
 			panel1.add(button2);
 			button2.setBounds(420, 15, 160, 40);
 			button2.addActionListener(new java.awt.event.ActionListener() {
@@ -244,7 +244,7 @@ public class ManagerScreen extends JFrame {
 
 			//---- button3 ----
 			button3.setText("View Statistics");
-			button3.setIcon(new ImageIcon(getClass().getResource("/stats.png")));
+			button3.setIcon(new ImageIcon(getClass().getResource("/icons/stats.png")));
 			panel1.add(button3);
 			button3.setBounds(640, 15, 160, 40);
 			button3.addActionListener(new java.awt.event.ActionListener() {
@@ -255,7 +255,7 @@ public class ManagerScreen extends JFrame {
 
 			//---- button4 ----
 			button4.setText("View Stock");
-			button4.setIcon(new ImageIcon(getClass().getResource("/stock.png")));
+			button4.setIcon(new ImageIcon(getClass().getResource("/icons/stock.png")));
 			panel1.add(button4);
 			button4.setBounds(860, 15, 160, 40);
 			button4.addActionListener(new java.awt.event.ActionListener() {

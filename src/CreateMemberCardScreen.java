@@ -93,13 +93,13 @@ public class CreateMemberCardScreen extends JInternalFrame {
 
 				//---- button1 ----
 				button1.setText("Add Member");
-				button1.setIcon(new ImageIcon(getClass().getResource("/plusSign1.png")));
+				button1.setIcon(new ImageIcon(getClass().getResource("/icons/plusSign1.png")));
 				contentPane.add(button1);
 				button1.setBounds(20, 310, 150, 40);
 
 				//---- button2 ----
 				button2.setText("Delete Member");
-				button2.setIcon(new ImageIcon(getClass().getResource("/delete.png")));
+				button2.setIcon(new ImageIcon(getClass().getResource("/icons/delete.png")));
 				contentPane.add(button2);
 				button2.setBounds(190, 310, 150, 40);
 

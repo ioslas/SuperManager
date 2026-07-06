@@ -152,7 +152,7 @@ public class CashierScreen extends JFrame {
 			//---- button1 ----
 			button1.setText("Create Member Card");
 			button1.setSelectedIcon(null);
-			button1.setIcon(new ImageIcon(getClass().getResource("/memberCard2.png")));
+			button1.setIcon(new ImageIcon(getClass().getResource("/icons/memberCard2.png")));
 			panel1.add(button1);
 			button1.setBounds(400, 15, 180, 40);
 			button1.addActionListener(new java.awt.event.ActionListener() {
@@ -163,7 +163,7 @@ public class CashierScreen extends JFrame {
 
 			//---- button2 ----
 			button2.setText("Scan Products");
-			button2.setIcon(new ImageIcon(getClass().getResource("/transaction.png")));
+			button2.setIcon(new ImageIcon(getClass().getResource("/icons/transaction.png")));
 			panel1.add(button2);
 			button2.setBounds(700, 15, 160, 40);
 			button2.addActionListener(new java.awt.event.ActionListener() {

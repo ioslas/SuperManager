@@ -112,7 +112,7 @@ public class LoginScreen extends JFrame {
 				label3.setLabelFor(passwordField1);
 
 				
-				label4.setIcon(new ImageIcon(getClass().getResource("/logo.png")));
+				label4.setIcon(new ImageIcon(getClass().getResource("/icons/logo.png")));
 
 				GroupLayout contentPanelLayout = new GroupLayout(contentPanel);
 				contentPanel.setLayout(contentPanelLayout);

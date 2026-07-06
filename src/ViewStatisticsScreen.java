@@ -86,7 +86,7 @@ public class ViewStatisticsScreen extends JInternalFrame {
 
 				//---- button1 ----
 				button1.setText("Confirm");
-				button1.setIcon(new ImageIcon(getClass().getResource("/checkMark.png")));
+				button1.setIcon(new ImageIcon(getClass().getResource("/icons/checkMark.png")));
 				contentPane.add(button1);
 				button1.setBounds(new Rectangle(new Point(140, 200), button1.getPreferredSize()));
 				button1.addActionListener(new ActionListener() {
@@ -105,7 +105,7 @@ public class ViewStatisticsScreen extends JInternalFrame {
 
 				//---- button2 ----
 				button2.setText("Advanced Statistics");
-				button2.setIcon(new ImageIcon(getClass().getResource("/stats.png")));
+				button2.setIcon(new ImageIcon(getClass().getResource("/icons/stats.png")));
 				contentPane.add(button2);
 				button2.setBounds(new Rectangle(new Point(75, 305), button2.getPreferredSize()));
 				button2.addActionListener(new ActionListener() {

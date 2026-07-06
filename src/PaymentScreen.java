@@ -141,13 +141,13 @@ public class PaymentScreen extends JInternalFrame {
 
 				//---- button1 ----
 				button1.setText("Check points");
-				button1.setIcon(new ImageIcon(getClass().getResource("/search.png")));
+				button1.setIcon(new ImageIcon(getClass().getResource("/icons/search.png")));
 				contentPane.add(button1);
 				button1.setBounds(140, 135, 140, 40);
 
 				//---- button2 ----
 				button2.setText("Print");
-				button2.setIcon(new ImageIcon(getClass().getResource("/print.png")));
+				button2.setIcon(new ImageIcon(getClass().getResource("/icons/print.png")));
 				contentPane.add(button2);
 				button2.setBounds(new Rectangle(new Point(105, 460), button2.getPreferredSize()));
 				contentPane.add(textField2);
@@ -156,13 +156,13 @@ public class PaymentScreen extends JInternalFrame {
 
 				//---- button3 ----
 				button3.setText("Apply Discount");
-				button3.setIcon(new ImageIcon(getClass().getResource("/checkMark.png")));
+				button3.setIcon(new ImageIcon(getClass().getResource("/icons/checkMark.png")));
 				contentPane.add(button3);
 				button3.setBounds(140, 220, 140, 40);
 
 				//---- button4 ----
 				button4.setText("Finish");
-				button4.setIcon(new ImageIcon(getClass().getResource("/checkMark2.png")));
+				button4.setIcon(new ImageIcon(getClass().getResource("/icons/checkMark2.png")));
 				contentPane.add(button4);
 				button4.setBounds(95, 400, 110, 45);
 

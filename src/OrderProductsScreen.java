@@ -92,7 +92,7 @@ public class OrderProductsScreen extends JInternalFrame {
 
 				//---- button1 ----
 				button1.setText("Add to order");
-				button1.setIcon(new ImageIcon(getClass().getResource("/plusSign1.png")));
+				button1.setIcon(new ImageIcon(getClass().getResource("/icons/plusSign1.png")));
 				contentPane.add(button1);
 				button1.setBounds(105, 225, 120, 40);
 				button1.addActionListener(new ActionListener()
@@ -114,7 +114,7 @@ public class OrderProductsScreen extends JInternalFrame {
 
 				//---- button2 ----
 				button2.setText("Send order");
-				button2.setIcon(new ImageIcon(getClass().getResource("/order.png")));
+				button2.setIcon(new ImageIcon(getClass().getResource("/icons/order.png")));
 				contentPane.add(button2);
 				button2.setBounds(90, 320, 130, 40);
 				button2.addActionListener(new ActionListener()
@@ -126,7 +126,7 @@ public class OrderProductsScreen extends JInternalFrame {
 				});
 
 				//---- label3 ----
-				label3.setIcon(new ImageIcon(getClass().getResource("/order (2).png")));
+				label3.setIcon(new ImageIcon(getClass().getResource("/icons/order (2).png")));
 				contentPane.add(label3);
 				label3.setBounds(75, 5, 110, 85);
 			}

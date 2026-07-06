@@ -86,7 +86,7 @@ public class RUDCashierListScreen extends JInternalFrame {
 
 				//---- button1 ----
 				button1.setText("Add Cashier");
-				button1.setIcon(new ImageIcon(getClass().getResource("/plusSign1.png")));
+				button1.setIcon(new ImageIcon(getClass().getResource("/icons/plusSign1.png")));
 				button1.addActionListener(new ActionListener() {
 					
 					public void actionPerformed(ActionEvent e)
@@ -106,7 +106,7 @@ public class RUDCashierListScreen extends JInternalFrame {
 
 				//---- button2 ----
 				button2.setText("Delete Cashier");
-				button2.setIcon(new ImageIcon(getClass().getResource("/delete.png")));
+				button2.setIcon(new ImageIcon(getClass().getResource("/icons/delete.png")));
 				button2.addActionListener(new ActionListener() {
 				
 					public void actionPerformed(ActionEvent e) {
@@ -161,7 +161,7 @@ public class RUDCashierListScreen extends JInternalFrame {
 
 				//---- button3 ----
 				button3.setText("Update Cashier");
-				button3.setIcon(new ImageIcon(getClass().getResource("/update.png")));
+				button3.setIcon(new ImageIcon(getClass().getResource("/icons/update.png")));
 				button3.addActionListener(new ActionListener() {
 				
 					public void actionPerformed(ActionEvent e) {

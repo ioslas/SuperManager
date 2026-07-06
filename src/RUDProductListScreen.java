@@ -146,7 +146,7 @@ import javax.swing.table.*;
 
 				//---- button1 ----
 				button1.setText("Add Product");
-				button1.setIcon(new ImageIcon(getClass().getResource("/plusSign2.png")));
+				button1.setIcon(new ImageIcon(getClass().getResource("/icons/plusSign2.png")));
 				contentPane.add(button1);
 				button1.setBounds(20, 330, 150, 40);
 				button1.addActionListener(new ActionListener() {
@@ -166,7 +166,7 @@ import javax.swing.table.*;
 
 				//---- button2 ----
 				button2.setText("Update Product");
-				button2.setIcon(new ImageIcon(getClass().getResource("/update.png")));
+				button2.setIcon(new ImageIcon(getClass().getResource("/icons/update.png")));
 				contentPane.add(button2);
 				button2.setBounds(190, 330, 150, 40);
 				button2.addActionListener(new ActionListener() {
@@ -186,7 +186,7 @@ import javax.swing.table.*;
 
 				//---- button3 ----
 				button3.setText("Delete Product");
-				button3.setIcon(new ImageIcon(getClass().getResource("/delete.png")));
+				button3.setIcon(new ImageIcon(getClass().getResource("/icons/delete.png")));
 				contentPane.add(button3);
 				button3.setBounds(20, 385, 150, 40);
 				button3.addActionListener(new ActionListener() {
