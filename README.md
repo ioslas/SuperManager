@@ -137,9 +137,7 @@ Additional documentation can be found in the `docs/` directory.
 
 ## 📄 License
 
-🔒 This project is provided for **educational and personal learning purposes only**.
-
-You are welcome to download, study, and practice with the source code. However, you **may not reuse, modify, republish, redistribute, or incorporate** any part of this project into other works without prior permission from the authors.
-
+🔒 This project is provided for **educational and personal learning purposes only**.<br>
+You are welcome to download, study, and practice with the source code. However, you **may not reuse, modify, republish, redistribute, or incorporate** any part of this project into other works without prior permission from the authors.<br>
 For complete terms and conditions, please refer to the [LICENSE](./License) file.
 
