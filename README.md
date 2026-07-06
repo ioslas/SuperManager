@@ -104,7 +104,7 @@ The application supports supermarket operations through **<ins>a role-based acce
    </tr>
 </table>
 
-<h3 align="center">Info Messages
+<h3 align="center">Info Messages</h3>
 <table align="center">
    <tr>
    <td align="center">
@@ -113,7 +113,6 @@ The application supports supermarket operations through **<ins>a role-based acce
    </td>
    </tr>
 </table>
-</h3>
 
 **Key point**:
 - Any modifications performed through the interface are **automatically synchronized** with the database.
