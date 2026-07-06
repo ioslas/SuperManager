@@ -120,7 +120,7 @@ The application supports supermarket operations through **<ins>a role-based acce
 
 **Advanced/Crucial Screenshots/Functions**
 - `Freechart` Statistics
-<img width="728" height="317" alt="image" src="https://github.com/user-attachments/assets/b32ff43d-d679-456f-80a9-680192a2cc87" />
+<img width="928" height="317" alt="image" src="https://github.com/user-attachments/assets/b32ff43d-d679-456f-80a9-680192a2cc87" />
 - Printer Screen/
 <img width="602" height="547" alt="image" src="https://github.com/user-attachments/assets/724a6d47-100b-46cf-a7e5-918d26581d45" />
 
