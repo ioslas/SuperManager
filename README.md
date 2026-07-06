@@ -5,7 +5,7 @@
 ![JDBC](https://img.shields.io/badge/API-JDBC-4B4B4B?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
-## SuperManager is a <ins>Java Swing</ins> desktop application developed as *a university group project* for the <ins>Software Engineering course</ins>.</h2> 
+## SuperManager is a <ins>Java Swing</ins> desktop application developed as *a university group project* for the <ins>Software Engineering course</ins>. 
 
 The application supports supermarket operations through **<ins>a role-based access system</ins>**, where each user is <ins>granted permissions and functionalities</ins> according to ***their responsibilities** within the organization.*
 
@@ -114,11 +114,11 @@ The application supports supermarket operations through **<ins>a role-based acce
    </tr>
 </table>
 
-**Key point**:
+🗝️ **Key point**:
 - Any modifications performed through the interface are **automatically synchronized** with the database.
 - If you are running the project in Eclipse IDE, make sure all image resources are located in the **`src` directory**. Otherwise, *the application may not load them correctly.*
 
-**Advanced Features**
+📊 **Advanced Features**
 - *<ins>JFreeChart Statistics</ins>:* Sales statistics visualization using the `JFreeChart` library.
 <img width="1028" height="617" alt="image" src="https://github.com/user-attachments/assets/b32ff43d-d679-456f-80a9-680192a2cc87" />
 
