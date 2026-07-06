@@ -119,7 +119,7 @@ The application supports supermarket operations through **<ins>a role-based acce
 - If you are running the project in Eclipse IDE, make sure all image resources are located in the **`src` directory**. Otherwise, *the application may not load them correctly.*
 
 **Advanced Screenshots / Key Functionalities**
-- <ins>*`JFreechart` Statistics*:</ins> Sales statistics visualization using the JFreeChart library.
+- *<ins>`JFreechart` Statistics</ins>:* Sales statistics visualization using the JFreeChart library.
 <img width="1028" height="617" alt="image" src="https://github.com/user-attachments/assets/b32ff43d-d679-456f-80a9-680192a2cc87" />
 
 - <ins>*Receipt / Print Preview*:</ins> Receipt screen showing the final purchase summary before printing.
