@@ -105,7 +105,14 @@ The application supports supermarket operations through **<ins>a role-based acce
 </table>
 
 <h3 align="center">Info Messages
-<img width="378" height="181" alt="image" src="https://github.com/user-attachments/assets/043f9e09-b506-465d-a80e-470b34646c9c" />
+<table align="center">
+   <tr>
+   <td align="center">
+      <b>Successfull Payment</b><br><br>
+      <img width="378" height="181" alt="image" src="https://github.com/user-attachments/assets/043f9e09-b506-465d-a80e-470b34646c9c" />
+   </td>
+   </tr>
+</table>
 </h3>
 
 **Key point**:
