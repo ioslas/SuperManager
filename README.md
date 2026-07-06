@@ -58,7 +58,7 @@ The application supports supermarket operations through **<ins>a role-based acce
 
   If you only want to use the *application without building it from source*, then download ***<ins>the executable jar file</ins>*** from the **[Releases](../../releases)** section.<br>
 
-***<ins>WARNING</ins>***: The application requires a running MySQL server. In this guide, ***<ins>XAMPP</ins>*** is used as the local development environment: https://www.apachefriends.org/download.html <br>
+> ⚠️ ***<ins>WARNING</ins>***: The application requires a running MySQL server. In this guide, ***<ins>XAMPP</ins>*** is used as the local development environment: https://www.apachefriends.org/download.html <br>
 
 <h3 align="center">Run xampp-control app file</h3>
 
@@ -76,7 +76,7 @@ The application supports supermarket operations through **<ins>a role-based acce
 <img width="525" height="365" alt="image" src="https://github.com/user-attachments/assets/ce3fb398-40a3-432a-9dae-3bf534794111" />
 
 
-## 📸 Screenshots / Application Preview
+## 🖥️ Screenshots / Application Preview
 <h3 align="center">The main screen (LoginScreen.java)
    <img width="828" height="477" alt="image" src="https://github.com/user-attachments/assets/4a94f919-f4b0-48f6-8841-f6ff646bef4b" />
 </h3><br>
