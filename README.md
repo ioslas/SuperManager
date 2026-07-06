@@ -56,7 +56,7 @@ The application supports supermarket operations through **<ins>a role-based acce
 
 - Running the executable<br>
 
-  If you only want to use the *application without building it from source*, then download ***<ins>the executable jar file</ins>*** from [Realeses]<br>
+  If you only want to use the *application without building it from source*, then download ***<ins>the executable jar file</ins>*** from [from the **[Releases](/releases)** section.]<br>
 
 ***<ins>Note</ins>***: The application requires a running MySQL server. In this guide, ***<ins>XAMPP</ins>*** is used as the local development environment: https://www.apachefriends.org/download.html <br>
 
