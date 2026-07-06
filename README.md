@@ -1,11 +1,11 @@
-## SuperManager (Super-Market) Software
+# SuperManager (Super-Market) Software
 ![Java](https://img.shields.io/badge/Language-JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Swing](https://img.shields.io/badge/GUI-Java%20Swing-C0C0C0?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-F39C12?style=for-the-badge&logo=mysql&logoColor=white)
 ![JDBC](https://img.shields.io/badge/API-JDBC-4B4B4B?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
-SuperManager is a **<ins>Java Swing</ins> desktop application** developed as *a university group project* for the <ins>Software Engineering course</ins>.
+## SuperManager is a **<ins>Java Swing</ins> desktop application** developed as *a university group project* for the <ins>Software Engineering course</ins>.
 
 The application supports supermarket operations through **<ins>a role-based access system</ins>**, where each user is <ins>granted permissions and functionalities</ins> according to ***their responsibilities** within the organization.*
 
@@ -47,16 +47,16 @@ The application supports supermarket operations through **<ins>a role-based acce
 
       <img width="1282" height="610" alt="image" src="https://github.com/user-attachments/assets/31463249-e3fa-43bf-af97-29bc601afa6b" />
 
-      **Νote**: Further instructions about this enviroment are provided below.
+      **Νote**: Further instructions about this environment are provided below.
    4. Add the **required libraries** from the `lib/` folder
       ```text
       Right Click to the project -> Build Path --> Add External Archives... 
       ```
-   5. **Run `LoginScreen.java`** which which serves as **the application's entry point**.
+   5. **Run `LoginScreen.java`** which serves as **the application's entry point**.
 
 - Running the executable<br>
 
-  If you only want to use the *application without building it from source*, then download ***<ins>the executable jar file</ins>*** from the **[Releases](/../../releases)** section.<br>
+  If you only want to use the *application without building it from source*, then download ***<ins>the executable jar file</ins>*** from the **[Releases](../../releases)** section.<br>
 
 ***<ins>Note</ins>***: The application requires a running MySQL server. In this guide, ***<ins>XAMPP</ins>*** is used as the local development environment: https://www.apachefriends.org/download.html <br>
 
@@ -108,7 +108,7 @@ The application supports supermarket operations through **<ins>a role-based acce
 <table align="center">
    <tr>
    <td align="center">
-      <b>Successfull Payment</b><br><br>
+      <b>Successful Payment</b><br><br>
       <img width="378" height="181" alt="image" src="https://github.com/user-attachments/assets/043f9e09-b506-465d-a80e-470b34646c9c" />
    </td>
    </tr>
@@ -118,8 +118,8 @@ The application supports supermarket operations through **<ins>a role-based acce
 - Any modifications performed through the interface are **automatically synchronized** with the database.
 - If you are running the project in Eclipse IDE, make sure all image resources are located in the **`src` directory**. Otherwise, *the application may not load them correctly.*
 
-**Advanced Screenshots / Key Functionalities**
-- *<ins>JFreechart Statistics</ins>:* Sales statistics visualization using the `JFreeChart` library.
+**Advanced Features**
+- *<ins>JFreeChart Statistics</ins>:* Sales statistics visualization using the `JFreeChart` library.
 <img width="1028" height="617" alt="image" src="https://github.com/user-attachments/assets/b32ff43d-d679-456f-80a9-680192a2cc87" />
 
 - <ins>*Receipt / Print Preview*:</ins> Receipt screen showing the final purchase summary before printing.
@@ -138,6 +138,6 @@ Additional documentation can be found in the `docs/` directory.
 ## 📄 License
 
 🔒 This project is provided for **educational and personal learning purposes only**.<br>
-You are welcome to download, study, and practice with the source code. However, you **may not reuse, modify, republish, redistribute, or incorporate** any part of this project into other works without prior permission from the authors.<br>
+You are welcome to download, study, and practice with the source code. However, you **may not reuse, modify, republish, redistribute, or incorporate** any part of this project into other works without prior written permission from the authors.<br>
 For complete terms and conditions, please refer to the [LICENSE](./License) file.
 
