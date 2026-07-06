@@ -59,7 +59,7 @@ The application supports supermarket operations through **<ins>a role-based acce
   If you only want to use the *application without building it from source*, then download ***<ins>the executable jar file</ins>*** from the **[Releases](../../releases)** section.<br>
 
 
-> ⚠️ ***<ins>WARNING</ins>***: The application requires a running MySQL server. In this guide, ***<ins>XAMPP</ins>*** is used as the local development environment: https://www.apachefriends.org/download.html <br>
+⚠️ ***<ins>WARNING</ins>***: The application requires a running MySQL server. In this guide, ***<ins>XAMPP</ins>*** is used as the local development environment: https://www.apachefriends.org/download.html <br>
 
 <h3 align="center">Run xampp-control app file</h3>
 
