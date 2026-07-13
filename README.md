@@ -114,7 +114,7 @@ The application supports supermarket operations through **<ins>a role-based acce
    </tr>
 </table>
 
-🗝️ **Key point**:
+🗝️ **Key points**:
 - Any modifications performed through the interface are **automatically synchronized** with the database.
 - If you are running the project in Eclipse IDE, make sure all image resources are located in the **`src` directory**. Otherwise, *the application may not load them correctly.*
 
