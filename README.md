@@ -1,5 +1,4 @@
-<div align="center">
-  <center><h1>SuperManager (Super-Market) Software</center></h1>
+<div align="center"><center><h1>SuperManager (Super-Market) Software</center></h1>
 </div>
      
 ![Java](https://img.shields.io/badge/Language-JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white)
