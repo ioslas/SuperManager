@@ -1,4 +1,4 @@
-<div alig="center">
+<div align="center">
   <h1>SuperManager (Super-Market) Software</center></h1>
 </div>
      
