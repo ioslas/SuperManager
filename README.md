@@ -1,5 +1,5 @@
-<div align="center"><center><h1>SuperManager (Super-Market) Software</center></h1>
-</div>
+<h1>SuperManager (Super-Market) Software</center></h1>
+
      
 ![Java](https://img.shields.io/badge/Language-JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Swing](https://img.shields.io/badge/GUI-Java%20Swing-C0C0C0?style=for-the-badge)
