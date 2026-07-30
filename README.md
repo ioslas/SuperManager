@@ -31,7 +31,7 @@ The application supports supermarket operations through **<ins>a role-based acce
 - *Java Swing* --> **GUI Framework** for developing the desktop user interface
 -  *MySQL* --> **Relational database management system (RDBMS)**
 - *JDBC* --> **Java API** for <ins>Database Connectivity</ins> 
-- *[Eclipse IDE (Recommended)](https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers)* --> **Java Integrated Development Environment** for project 
+- *Eclipse IDE (Recommended)* --> **Java Integrated Development Environment** for project 
 
 
 ## 🚀 Installation & Setup
@@ -41,7 +41,7 @@ The application supports supermarket operations through **<ins>a role-based acce
       git clone https://github.com/ioslas/SuperManager.git
       cd SuperManager
       ```
-   2. Run the code with **Eclipse IDE** by <ins>importing project into its Package Explorer</ins>
+   2. Run the code with **[Eclipse IDE](https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers)** by <ins>importing project into its Package Explorer</ins>
       ```text
       File -> Import... -> Existing Projects into Workspace 
       ```
