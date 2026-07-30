@@ -5,6 +5,7 @@
 ![MySQL](https://img.shields.io/badge/Database-MySQL-F39C12?style=for-the-badge&logo=mysql&logoColor=white)
 ![JDBC](https://img.shields.io/badge/API-JDBC-4B4B4B?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-1.0-orange?style=for-the-badge)
 
 ## SuperManager is a <ins>Java Swing</ins> desktop application developed as *a university group project* for the <ins>Software Engineering course</ins>. 
 
