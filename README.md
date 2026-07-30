@@ -31,7 +31,7 @@ The application supports supermarket operations through **<ins>a role-based acce
 - *Java Swing* --> **GUI Framework** for developing the desktop user interface
 -  *MySQL* --> **Relational database management system (RDBMS)**
 - *JDBC* --> **Java API** for <ins>Database Connectivity</ins> 
-- *[Eclipse IDE (Recommended) (https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers)]* --> **Java Integrated Development Environment** for project 
+- *[Eclipse IDE (Recommended)](https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers)* --> **Java Integrated Development Environment** for project 
 
 
 ## 🚀 Installation & Setup
